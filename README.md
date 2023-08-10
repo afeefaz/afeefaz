@@ -9,10 +9,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,git,jenkins)](https://skillicons.dev)
 
-• Languages lover
-
-[![My Skills](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Linkedin:</h3>
