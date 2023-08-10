@@ -7,7 +7,7 @@
 
 • Automation Enthusiast
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,git,jenkins)](https://skillicons.dev)
 
 • Languages lover
 
